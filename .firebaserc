@@ -1,6 +1,7 @@
 {
   "projects": {
-    "default": "flixgpt-e07b0"
+    "default": "movielix-af506",
+    "myapp": "movielix-af506"
   },
   "targets": {},
   "etags": {}

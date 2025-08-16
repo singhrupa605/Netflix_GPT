@@ -2,6 +2,7 @@ import { Formik, Form } from "formik";
 import * as Yup from "yup";
 import FormikControl from "./formik/FormikControl";
 import { useState, useEffect } from "react";
+import { addUser } from "../utils/userSlice";
 import { Link, useNavigate } from "react-router-dom";
 import {
   updateProfile,

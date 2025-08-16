@@ -44,6 +44,7 @@ A Netflix clone built using **React** and styled with **Tailwind CSS**. Features
   - BugFix : Redirect the logged-in user to the browse page if tries to go back to login page 
   - Add all constants to constants file
   - Unsubscribe to onAuthStateChange inside useEffect()
+  - get Movies Data from TMDB API
 ---
 
 ## 📂 Project Setup
